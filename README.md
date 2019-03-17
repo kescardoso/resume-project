@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is my mini project with bootstrap 4
+This is my mini project with Bootstrap4
 (for the User Centric Front End Development Module, at www.CodeInstitute.net),
 which features my real professional online resume.
 
