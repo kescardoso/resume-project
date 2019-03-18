@@ -8,7 +8,11 @@ which features my real professional online resume.
 
 Below there is a list of resources used in this project
 
-##
+## Libraries:
+
+1. Bootstrap CSS links, from https://www.bootstrapcdn.com/
+2. Fonts (Roboto and Exo), from https://fonts.google.com/
+3. Menu Hover Efects, from https://cdnjs.com/ and http://ianlunn.github.io/Hover/
 
 
 ##
