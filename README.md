@@ -6,7 +6,8 @@ This is my mini project with Bootstrap4
 (for the User Centric Front End Development Module, at www.CodeInstitute.net),
 which features my real professional online resume.
 
-Below there is a list of resources used in this project
+Below there is a list of resources used in this project:
+
 
 ## Libraries:
 
