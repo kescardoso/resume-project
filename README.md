@@ -1,4 +1,4 @@
-# Mini Resume Project With Bootstrap4
+# Resume Page With Bootstrap
 
 [View this website on GitHub Pages](https://kescardoso.github.io/rosie-resume/)
 
