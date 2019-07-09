@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rosie Resume
 ## Mini Resume Project With Bootstrap
 
