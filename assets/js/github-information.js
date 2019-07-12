@@ -37,6 +37,9 @@ function repoInformationHTML(repos) {
 }
 
 function fetchGitHubInformation(event) {
+    //fix bug: github form to be cleared when text-box is empty
+    $("#gh-user-data").html("");
+    $("#gh-repo-data").html("");
 
     var username = $("#gh-username").val();
     if (!username) {
@@ -70,3 +73,6 @@ function fetchGitHubInformation(event) {
             }
         });
 }
+
+//Github Box: display octocat profile when page is loaded
+$(document).ready(fetchGitHubInformation);
