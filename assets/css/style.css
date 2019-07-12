@@ -7,11 +7,15 @@
 }
 
 .bg-color-three-reasons {
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .bg-color-personal-info {
     background-color: #f4f4f4;
+}
+
+.bg-color-skills {
+    background-color: #ffffff;
 }
 
 .bg-color-work-history {
@@ -19,7 +23,15 @@
 }
 
 .bg-color-contact {
-    background-color: #fff;
+    background-color: #ffffff;
+}
+
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
 }
 
 .ui-menu-color-home {
@@ -35,7 +47,23 @@
 }
 
 .ui-menu-color-download {
+    background-color: #d9a81d;
+}
+
+
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
     background-color: #525252;
+    color: #555555;
 }
 
 /* -----------------------------------------Special paddings/margins/text */
@@ -361,6 +389,12 @@ button[type="submit"] {
     background-color: #e84610;
 }
 
+/* -----------------------------------------Google Maps */
+
+div#map {
+    min-height: 360px;
+}
+
 /* -----------------------------------------Media Queries */
 
 @media(min-width: 992px) {
@@ -372,8 +406,3 @@ button[type="submit"] {
     }
 }
 
-/* -----------------------------------------Google Maps */
-
-div#map {
-    min-height: 360px;
-}
