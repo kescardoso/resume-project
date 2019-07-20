@@ -1,7 +1,7 @@
 # Rosie Resume
 ## Mini Resume Project With Bootstrap
 
-[View this website on GitHub Pages](https://kescardoso.github.io/rosie-resume/)
+[View this website on GitHub Pages](https://kescardoso.github.io/rosie-project/)
 
 Welcome!
 
